@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GADApplicationIdentifier</key>
+	<string>$(GAD_APPLICATION_IDENTIFIER)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>CUSTOM_GOOGLE_AD_UNIT_ID_FOR_MAIN_PLATE_BOTTOM_BANNER_AD</key>
+	<string>$(CUSTOM_GOOGLE_AD_UNIT_ID_FOR_MAIN_PLATE_BOTTOM_BANNER_AD)</string>
+	<key>CUSTOM_GOOGLE_AD_UNIT_ID_FOR_RESULT_DIALOG_FULL_AD</key>
+	<string>$(CUSTOM_GOOGLE_AD_UNIT_ID_FOR_RESULT_DIALOG_FULL_AD)</string>
+	<key>CUSTOM_SUPABASE_KEY</key>
+	<string>$(CUSTOM_SUPABASE_KEY)</string>
+	<key>CUSTOM_SUPABASE_URL_STRING</key>
+	<string>$(CUSTOM_SUPABASE_URL_STRING)</string>
+	<key>SKAdNetworkItems</key>
+	<array>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>cstr6suwn9.skadnetwork</string>
+		</dict>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict/>
+	</dict>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>launchPlateBackground</string>
+		<key>UIImageName</key>
+		<string>launchPlateHero</string>
+	</dict>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>User Interface Style</key>
+	<string>Light</string>
+</dict>
+</plist>
